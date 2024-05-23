@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         {All}Delete Vehicles
-// @version      1.2
+// @version      1.2.1
 // @description  Verwijderd geselecteerde voertuigen
 // @author       DrTraxx & ScriptTeam Nederland
 // @include      /^https?:\/\/(w{3}\.)?(polizei\.)?leitstellenspiel\.de\/buildings\/\d*/
@@ -85,10 +85,10 @@
 
     $("body").on("click", "#dump_vehicles", async function () {
         if (arrDestroyVehicles.length === 0) {
-            alert("Du musst Fahrzeuge zum verschrotten auswählen!");
+            alert("U moet voertuigen selecteren om te verwijderen");
             return;
         }
-        if (confirm(`Willst du die ${ arrDestroyVehicles.length } Fahrzeuge wirklich verschrotten?`) === true) {
+        if (confirm(`Weet u zeker dat u ${ arrDestroyVehicles.length } voertuigen wilt verwijderen?`) === true) {
             for (var p in arrDestroyVehicles) {
                 const kernschrott = arrDestroyVehicles[p];
                 $("#dump_vehicles").text(`Verschrotte Fahrzeug ${ +p + 1 } von ${ arrDestroyVehicles.length }!`);
