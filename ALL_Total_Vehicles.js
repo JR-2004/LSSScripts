@@ -1,32 +1,32 @@
 // ==UserScript==
 // @name         {All}Total Vehicles
 // @namespace    https://www.leitstellenspiel.de/
-// @version      1.0
+// @version      1.1
 // @description:de  Zählt Fahrzeuge an der Einsatzstelle
 // @description     Creates a counter for all vehicles on scene
 // @author       LennardTFD & JR04
-// @match        https://www.leitstellenspiel.de/profile/*
-// @match		 https://www.meldkamerspel.com/profile/*
-// @match		 https://www.missionchief.com/profile/*
-// @match		 https://www.missionchief.co.uk/profile/*
-// @match		 https://www.missionchief-australia.com/profile/*
-// @match 		 https://www.centro-de-mando.es/profile/*
-// @match 	     https://www.operatorratunkowy.pl/profile/*
-// @match		 https://www.larmcentralen-spelet.se/profile/*
-// @match		 https://www.operatore112.it/profile/*
-// @match		 https://www.operateur112.fr/profile/*
-// @match		 https://www.dispetcher112.ru/profile/*
-// @match		 https://www.alarmcentral-spil.dk/profile/*
-// @match		 https://www.nodsentralspillet.com/profile/*
-// @match		 https://www.operacni-stredisko.cz/profile/*
-// @match		 https://www.jogo-operador112.com/profile/*
-// @match		 https://www.operador193.com/profile/*
-// @match		 https://www.dyspetcher101-game.com/profile/*
-// @match		 https://www.missionchief-japan.com/profile/*
-// @match		 https://www.missionchief-korea.com/profile/*
-// @match		 https://www.jocdispecerat112.com/profile/*
-// @match		 https://www.hatakeskuspeli.com/profile/*
-// @match		 https://www.dispecerske-centrum.com/profile/*
+// @match        https://www.leitstellenspiel.de/missions/*
+// @match		 https://www.meldkamerspel.com/missions/*
+// @match		 https://www.missionchief.com/missions/*
+// @match		 https://www.missionchief.co.uk/missions/*
+// @match		 https://www.missionchief-australia.com/missions/*
+// @match 		 https://www.centro-de-mando.es/missions/*
+// @match 	     https://www.operatorratunkowy.pl/missions/*
+// @match		 https://www.larmcentralen-spelet.se/missions/*
+// @match		 https://www.operatore112.it/missions/*
+// @match		 https://www.operateur112.fr/missions/*
+// @match		 https://www.dispetcher112.ru/missions/*
+// @match		 https://www.alarmcentral-spil.dk/missions/*
+// @match		 https://www.nodsentralspillet.com/missions/*
+// @match		 https://www.operacni-stredisko.cz/missions/*
+// @match		 https://www.jogo-operador112.com/missions/*
+// @match		 https://www.operador193.com/missions/*
+// @match		 https://www.dyspetcher101-game.com/missions/*
+// @match		 https://www.missionchief-japan.com/missions/*
+// @match		 https://www.missionchief-korea.com/missions/*
+// @match		 https://www.jocdispecerat112.com/missions/*
+// @match		 https://www.hatakeskuspeli.com/missions/*
+// @match		 https://www.dispecerske-centrum.com/missions/*
 // @downloadURL  https://raw.githubusercontent.com/JR-2004/LSSScripts/main/ALL_Total_Vehicles.js
 // @updateURL    https://raw.githubusercontent.com/JR-2004/LSSScripts/main/ALL_Total_Vehicles.js
 // @grant        GM_addStyle
