@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         {All}Total Vehicles
 // @namespace    https://www.leitstellenspiel.de/
-// @version      1.1.3
+// @version      1.1.4
 // @description:de  Zählt Fahrzeuge an der Einsatzstelle
 // @description     Creates a counter for all vehicles on scene
 // @author       LennardTFD & JR04
@@ -29,6 +29,8 @@
 // @match		 https://www.dispecerske-centrum.com/missions/*
 // @downloadURL  https://raw.githubusercontent.com/JR-2004/LSSScripts/main/ALL_Total_Vehicles.js
 // @updateURL    https://raw.githubusercontent.com/JR-2004/LSSScripts/main/ALL_Total_Vehicles.js
+// @icon   https://raw.githubusercontent.com/JR-2004/LSSScripts/main/icon.jpg
+// @grant    GM_addStyle
 // ==/UserScript==
 
 GM_addStyle(`
