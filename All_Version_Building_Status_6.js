@@ -2,7 +2,7 @@
 // ==UserScript==
 // @name        {All}Building Status 6
 // @namespace   https://www.leitstellenspiel.de/
-// @version     1.3
+// @version     1.3.1
 // @description ALle Fahrzeuge einer Wache auf Status 6
 // @author      ScriptTeam Meldkamerspel
 // @match       https://www.leitstellenspiel.de/buildings/*
@@ -29,6 +29,7 @@
 // @match		    https://www.dispecerske-centrum.com/buildings/*
 // @downloadURL https://raw.githubusercontent.com/JR-2004/LSSScripts/main/All_Version_Building_Status_6.js
 // @updateURL   https://raw.githubusercontent.com/JR-2004/LSSScripts/main/All_Version_Building_Status_6.js
+// @icon   https://raw.githubusercontent.com/JR-2004/LSSScripts/main/icon.png
 // @grant       none
 // ==/UserScript==
 
