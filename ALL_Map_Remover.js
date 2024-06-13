@@ -1,11 +1,11 @@
 // ==UserScript==
 // @name         {ALL}Map Remover
-// @version      1.2
+// @version      1.2.1
 // @description  Verwijderd de kaart van de homepage
 // @downloadURL  https://raw.githubusercontent.com/JR-2004/LSSScripts/main/ALL_Map_Remover.js
 // @updateURL    https://raw.githubusercontent.com/JR-2004/LSSScripts/main/ALL_Map_Remover.js
 // @author       Mephisto616 (JKS) & ScriptTeam Nederland
-// @icon         https://www.jkweb-service.de/images/favicon.ico
+// @icon   https://raw.githubusercontent.com/JR-2004/LSSScripts/main/icon.png
 // @match        https://www.operacni-stredisko.cz/*
 // @match        https://policie.operacni-stredisko.cz/*
 // @match        https://www.alarmcentral-spil.dk/*
