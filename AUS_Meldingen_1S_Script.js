@@ -1,12 +1,12 @@
 // ==UserScript==
 // @name        {AUS} 1+S Script
 // @namespace   bos-ernie.leitstellenspiel.de
-// @version     1.3
+// @version     1.3.1
 // @license     BSD-3-Clause
 // @author      BOS-Ernie & ScriptTeam Nederland
 // @description Stuurt het eerste voertuig uit de lijst naar een melding.
 // @match       https://*.missionchief-australia.com/missions/*
-// @icon        https://www.google.com/s2/favicons?sz=64&domain=leitstellenspiel.de
+// @icon   https://raw.githubusercontent.com/JR-2004/LSSScripts/main/icon.png
 // @run-at      document-idle
 // @grant       none
 // @downloadURL https://raw.githubusercontent.com/JR-2004/LSSScripts/main/AUS_Meldingen_1S_Script.js 
