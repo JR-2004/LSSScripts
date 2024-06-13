@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         {All}PersoneelToewijsKnop
 // @namespace    bos-ernie.leitstellenspiel.de
-// @version      1.5
+// @version      1.5.1
 // @license      BSD-3-Clause
 // @author       BOS-Ernie & ScriptTeam Nederland
 // @description  Voegt een knop toe die ervoor zorgt dat je direct je personeel kan koppelen
@@ -27,7 +27,7 @@
 // @match		     https://www.jocdispecerat112.com/buildings/*
 // @match		     https://www.hatakeskuspeli.com/buildings/*
 // @match		     https://www.dispecerske-centrum.com/buildings/*
-// @icon         https://www.google.com/s2/favicons?sz=64&domain=leitstellenspiel.de
+// @icon   https://raw.githubusercontent.com/JR-2004/LSSScripts/main/icon.png
 // @run-at       document-idle
 // @grant        none
 // @downloadURL  https://raw.githubusercontent.com/JR-2004/LSSScripts/main/ALL_PersoneelToewijsKnop.js
