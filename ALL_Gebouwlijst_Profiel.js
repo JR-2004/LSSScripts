@@ -1,10 +1,10 @@
 // ==UserScript==
 // @name         {All}GebouwOverzicht
-// @version      1.4.3
+// @version      1.4.4
 // @description  GebouwOverzicht weergave in spelersprofiel
 // @author       DrTraxx & ScriptTeam Nederland
 // @include      /^https?:\/\/(?:w{3}\.)?(?:(policie\.)?operacni-stredisko\.cz|(politi\.)?alarmcentral-spil\.dk|(polizei\.)?leitstellenspiel\.de|missionchief\.gr|(?:(police\.)?missionchief-australia|(police\.)?missionchief|(poliisi\.)?hatakeskuspeli|missionchief-japan|missionchief-korea|nodsentralspillet|meldkamerspel|operador193|jogo-operador112|jocdispecerat112|dispecerske-centrum|112-merkez|dyspetcher101-game)\.com|(police\.)?missionchief\.co\.uk|centro-de-mando\.es|centro-de-mando\.mx|(police\.)?operateur112\.fr|(polizia\.)?operatore112\.it|operatorratunkowy\.pl|dispetcher112\.ru|larmcentralen-spelet\.se)\/profile\/.*\
-// @icon         https://www.google.com/s2/favicons?sz=64&domain=leitstellenspiel.de
+// @icon   https://raw.githubusercontent.com/JR-2004/LSSScripts/main/icon.png
 // @match        https://www.leitstellenspiel.de/profile/*
 // @match		 https://www.meldkamerspel.com/profile/*
 // @match		 https://www.missionchief.com/profile/*
