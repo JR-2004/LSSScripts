@@ -1,12 +1,12 @@
 // ==UserScript==
 // @name        {NLVOL}Personeel Koppelen
 // @namespace   bos-ernie.leitstellenspiel.de
-// @version     1.2
+// @version     1.2.1
 // @license     BSD-3-Clause
 // @author      BOS-Ernie & ScriptTeam Nederland
 // @description Koppelt het maximale aantal personeel aan een voertuig. Script: BOS_Ernie. Vertaling naar Nederlands: JR04. Voertuiginformatie: Eerstetankautospuit
 // @match       https://*.meldkamerspel.com/vehicles/*/zuweisung
-// @icon        https://www.google.com/s2/favicons?sz=64&domain=leitstellenspiel.de
+// @icon   https://raw.githubusercontent.com/JR-2004/LSSScripts/main/icon.png
 // @downloadURL https://raw.githubusercontent.com/JR-2004/meldkamerspelscripts/main/NLVOL_Personeel_Koppelen.js
 // @updateURL   https://raw.githubusercontent.com/JR-2004/meldkamerspelscripts/main/NLVOL_Personeel_Koppelen.js
 // @run-at      document-idle
