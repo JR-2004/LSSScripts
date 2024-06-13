@@ -1,13 +1,13 @@
 // ==UserScript==
 // @name        {NL}SchoolFilter
 // @namespace   bos-ernie.leitstellenspiel.de
-// @version     1.1
+// @version     1.1.1
 // @license     BSD-3-Clause
 // @author      BOS-Ernie & JR04
 // @description Platziert die eigenen und offenen Lehrgänge auf Tabs, bietet Filtermöglichkeiten an und zeigt die Anzahl der Lehrgänge (gefiltert/gesamt) an
 // @match       https://www.meldkamerspel.com/schoolings*
 // @match       https://www.politie.meldkamerspel.com/schoolings*
-// @icon        https://www.google.com/s2/favicons?sz=64&domain=leitstellenspiel.de
+// @icon   https://raw.githubusercontent.com/JR-2004/LSSScripts/main/icon.png
 // @run-at      document-idle
 // @grant       none
 // @downloadURL https://raw.githubusercontent.com/JR-2004/LSSScripts/main/NL_SchoolFilter.js
