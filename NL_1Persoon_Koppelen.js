@@ -1,12 +1,12 @@
 // ==UserScript==
 // @name        {NL}1 Persoon Koppelen
 // @namespace   bos-ernie.leitstellenspiel.de
-// @version     1.3
+// @version     1.3.1
 // @license     BSD-3-Clause
 // @author      BOS-Ernie, ScriptTeam Meldkamerspel
 // @description Koppelt één personeelslid aan een voertuig.
 // @match       https://*.meldkamerspel.com/vehicles/*/zuweisung
-// @icon        https://www.google.com/s2/favicons?sz=64&domain=leitstellenspiel.de
+// @icon   https://raw.githubusercontent.com/JR-2004/LSSScripts/main/icon.png
 // @run-at      document-idle
 // @downloadURL https://raw.githubusercontent.com/JR-2004/LSSScritps/main/NL_1Persoon_Koppelen.js
 // @updateURL   https://raw.githubusercontent.com/JR-2004/LSSScritps/main/NL_1Persoon_Koppelen.js
