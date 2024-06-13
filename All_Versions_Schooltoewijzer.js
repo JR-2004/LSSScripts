@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name            {All}SchoolToewijzer
 // @namespace       https://www.leitstellenspiel.de/
-// @version         1.3
+// @version         1.3.1
 // @author          BOS-Ernie & ScriptTeam Nederland
 // @description     Voegt knoppen toe van 1 tot 10 aan een school om mensen op te leiden.
 // @match           https://www.leitstellenspiel.de/schoolings/*
@@ -48,7 +48,7 @@
 // @match		        https://www.jocdispecerat112.com/buildings/*
 // @match		        https://www.hatakeskuspeli.com/buildings/*
 // @match		        https://www.dispecerske-centrum.com/buildings/*
-// @icon            https://www.google.com/s2/favicons?sz=64&domain=leitstellenspiel.de
+// @icon   https://raw.githubusercontent.com/JR-2004/LSSScripts/main/icon.png
 // @downloadURL     https://raw.githubusercontent.com/JR-2004/LSSScripts/main/All_Versions_Schooltoewijzer.js
 // @updateURL       https://raw.githubusercontent.com/JR-2004/LSSScripts/main/All_Versions_Schooltoewijzer.js
 // @run-at          document-idle
