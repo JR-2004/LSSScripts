@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         {All}Delete Vehicles
-// @version      1.2.2
+// @version      1.2.3
 // @description  Verwijderd geselecteerde voertuigen
 // @author       DrTraxx & ScriptTeam Nederland
 // @include      /^https?:\/\/(w{3}\.)?(polizei\.)?leitstellenspiel\.de\/buildings\/\d*/
@@ -28,7 +28,7 @@
 // @match        https://www.dispecerske-centrum.com/buildings/*
 // @downloadURL  https://raw.githubusercontent.com/JR-2004/LSSScripts/main/All_Delete_Vehicles.js
 // @updateURL    https://raw.githubusercontent.com/JR-2004/LSSScripts/main/All_Delete_Vehicles.js
-// @icon         https://www.google.com/s2/favicons?sz=64&domain=leitstellenspiel.de
+// @icon   https://raw.githubusercontent.com/JR-2004/LSSScripts/main/icon.png
 // @grant        none
 // ==/UserScript==
 /* global $ */
