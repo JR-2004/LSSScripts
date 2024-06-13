@@ -1,10 +1,10 @@
 // ==UserScript==
 // @name            {ALL}Minimaal Aantal StatusMeldingen
-// @version         1.2
+// @version         1.2.1
 // @author          Jan (jxn_30) & ScriptTeam Nederland
 // @description     Limits the amount of radio messages shown in the radio history.
 // @description:de  Begrenzt die Anzahl der Funknachrichten in der Funk-Historie.
-// @icon            https://www.leitstellenspiel.de/favicon.ico
+// @icon   https://raw.githubusercontent.com/JR-2004/LSSScripts/main/icon.png
 // @updateURL       https://raw.githubusercontent.com/JR-2004/LSSScripts/main/ALL_MinimumStatus.js
 // @downloadURL     https://raw.githubusercontent.com/JR-2004/LSSScripts/main/ALL_MinimumStatus.js
 // @match           https://www.operacni-stredisko.cz/
