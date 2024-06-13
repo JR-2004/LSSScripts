@@ -26,9 +26,10 @@
 // @match		     https://www.dispecerske-centrum.com/
 // @downloadURL  https://raw.githubusercontent.com/JR-2004/LSSScripts/main/ALL_MissionSpeed.js
 // @updateURL    https://raw.githubusercontent.com/JR-2004/LSSScripts/main/ALL_MissionSpeed.js
-// @version      1.2
+// @version      1.2.1
 // @description  Handige tekst bij instellen van de meldingsnelheid
 // @author       MissSobol & ScriptTeam Nederland
+// @icon   https://raw.githubusercontent.com/JR-2004/LSSScripts/main/icon.png
 // @grant        none
 // ==/UserScript==
 
