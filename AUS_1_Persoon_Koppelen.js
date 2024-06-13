@@ -1,12 +1,12 @@
 // ==UserScript==
 // @name        {AUS}1 Persoon Koppelen
 // @namespace   bos-ernie.leitstellenspiel.de
-// @version     1.6
+// @version     1.6.1
 // @license     BSD-3-Clause
 // @author      BOS-Ernie, ScriptTeam Meldkamerspel
 // @description Koppelt één personeelslid aan een voertuig.
 // @match       https://*.missionchief-australia.com/vehicles/*/zuweisung
-// @icon        https://www.google.com/s2/favicons?sz=64&domain=leitstellenspiel.de
+// @icon   https://raw.githubusercontent.com/JR-2004/LSSScripts/main/icon.png
 // @downloadURL https://raw.githubusercontent.com/JR-2004/LSSScripts/main/AUS_1_Persoon_Koppelen.js
 // @updateURL   https://raw.githubusercontent.com/JR-2004/LSSScripts/main/AUS_1_Persoon_Koppelen.js
 // @run-at      document-idle
