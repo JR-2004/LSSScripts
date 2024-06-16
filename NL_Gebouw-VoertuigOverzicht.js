@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name        {NL}Gebouw-VoertuigenOverzicht
 // @namespace   bos-ernie.leitstellenspiel.de
-// @version     1.0.2
+// @version     1.0.2.2
 // @license     BSD-3-Clause
 // @author      BOS-Ernie
 // @description Bereitet diverse Informationen zu Wachen und Fahrzeugen auf, welche dem Spieler Hinweise über noch fehlende Einstellungen, Ausbauten, Fahrzeugen etc. gibt
@@ -10,7 +10,7 @@
 // @icon        https://www.google.com/s2/favicons?sz=64&domain=leitstellenspiel.de
 // @run-at      document-idle
 // @grant       none
-// @resource    https://forum.leitstellenspiel.de/index.php?thread/23925-script-geb%C3%A4ude-fuhrparkverwalter-by-bos-ernie/
+// @require     https://update.greasyfork.org/scripts/491642/1354160/%2A%20Common%3A%20IndexedDB.js
 // @downloadURL https://raw.githubusercontent.com/JR-2004/LSSScripts/main/NL_Gebouw-VoertuigOverzicht.js
 // @updateURL   https://raw.githubusercontent.com/JR-2004/LSSScripts/main/NL_Gebouw-VoertuigOverzicht.js
 // ==/UserScript==
