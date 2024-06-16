@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name        {NL}Gebouw-VoertuigenOverzicht
 // @namespace   bos-ernie.leitstellenspiel.de
-// @version     1.0.3.0.3
+// @version     1.0.3.0.4
 // @license     BSD-3-Clause
 // @author      BOS-Ernie
 // @description Bereitet diverse Informationen zu Wachen und Fahrzeugen auf, welche dem Spieler Hinweise über noch fehlende Einstellungen, Ausbauten, Fahrzeugen etc. gibt
@@ -824,107 +824,107 @@
                 </div>
               </div>
               <div class="form-group">
-                <label for="building-type-18" class="col-sm-4 control-label">
-                  wache (Kleinwache)
-                </label>
-                <div class="col-sm-1">
-                  <input type="number" class="form-control" id="building-type-18" min="0" max="400" />
-                </div>
-              </div>
-              <div class="form-group">
-                <label for="building-type-2" class="col-sm-4 control-label">
-                  Rettungswache
-                </label>
-                <div class="col-sm-1">
-                  <input type="number" class="form-control" id="building-type-2" min="0" max="400" />
-                </div>
-              </div>
-              <div class="form-group">
-                <label for="building-type-20" class="col-sm-4 control-label">
-                  Rettungswache (Kleinwache)
-                </label>
-                <div class="col-sm-1">
-                  <input type="number" class="form-control" id="building-type-20" min="0" max="400" />
-                </div>
-              </div>
-              <div class="form-group">
-                <label for="building-type-5" class="col-sm-4 control-label">
-                  Rettungshubschrauber-Station
-                </label>
-                <div class="col-sm-1">
-                  <input type="number" class="form-control" id="building-type-5" min="0" max="400" />
-                </div>
-              </div>
-              <div class="form-group">
-                <label for="building-type-6" class="col-sm-4 control-label">
-                  Polizeiwache
-                </label>
-                <div class="col-sm-1">
-                  <input type="number" class="form-control" id="building-type-6" min="0" max="400" />
-                </div>
-              </div>
-              <div class="form-group">
-                <label for="building-type-19" class="col-sm-4 control-label">
-                  Polizeiwache (Kleinwache)
-                </label>
-                <div class="col-sm-1">
-                  <input type="number" class="form-control" id="building-type-19" min="0" max="400" />
-                </div>
-              </div>
-              <div class="form-group">
-                <label for="building-type-11" class="col-sm-4 control-label">
-                  Bereitschaftspolizei
-                </label>
-                <div class="col-sm-1">
-                  <input type="number" class="form-control" id="building-type-11" min="0" max="400" />
-                </div>
-              </div>
-              <div class="form-group">
-                <label for="building-type-13" class="col-sm-4 control-label">
-                  Polizeihubschrauberstation
-                </label>
-                <div class="col-sm-1">
-                  <input type="number" class="form-control" id="building-type-13" min="0" max="400" />
-                </div>
-              </div>
-              <div class="form-group">
                 <label for="building-type-17" class="col-sm-4 control-label">
-                  Polizei-Sondereinheiten
+                  Brandweer, Kazerne (klein)
                 </label>
                 <div class="col-sm-1">
                   <input type="number" class="form-control" id="building-type-17" min="0" max="400" />
                 </div>
               </div>
               <div class="form-group">
-                <label for="building-type-12" class="col-sm-4 control-label">
-                  Schnelleinsatzgruppe (SEG)
+                <label for="building-type-3" class="col-sm-4 control-label">
+                  Ambulance, standplaats
                 </label>
                 <div class="col-sm-1">
-                  <input type="number" class="form-control" id="building-type-12" min="0" max="400" />
+                  <input type="number" class="form-control" id="building-type-3" min="0" max="400" />
+                </div>
+              </div>
+              <div class="form-group">
+                <label for="building-type-13" class="col-sm-4 control-label">
+                  Ambulance, VWS-post
+                </label>
+                <div class="col-sm-1">
+                  <input type="number" class="form-control" id="building-type-13" min="0" max="400" />
+                </div>
+              </div>
+              <div class="form-group">
+                <label for="building-type-5" class="col-sm-4 control-label">
+                  Politie, Opkomstbureau
+                </label>
+                <div class="col-sm-1">
+                  <input type="number" class="form-control" id="building-type-5" min="0" max="400" />
+                </div>
+              </div>
+              <div class="form-group">
+                <label for="building-type-18" class="col-sm-4 control-label">
+                  Politie, Opkomstbureau (klein)
+                </label>
+                <div class="col-sm-1">
+                  <input type="number" class="form-control" id="building-type-18" min="0" max="400" />
+                </div>
+              </div>
+              <div class="form-group">
+                <label for="building-type-11" class="col-sm-4 control-label">
+                  Politie, Hoofdbureau
+                </label>
+                <div class="col-sm-1">
+                  <input type="number" class="form-control" id="building-type-11" min="0" max="400" />
+                </div>
+              </div>
+              <div class="form-group">
+                <label for="building-type-6" class="col-sm-4 control-label">
+                  MMT-Standplaats
+                </label>
+                <div class="col-sm-1">
+                  <input type="number" class="form-control" id="building-type-6" min="0" max="400" />
                 </div>
               </div>
               <div class="form-group">
                 <label for="building-type-9" class="col-sm-4 control-label">
-                  THW
+                  Politiehelikopter standplaats
                 </label>
                 <div class="col-sm-1">
                   <input type="number" class="form-control" id="building-type-9" min="0" max="400" />
                 </div>
               </div>
               <div class="form-group">
+                <label for="building-type-16" class="col-sm-4 control-label">
+                  Waterreddingspost
+                </label>
+                <div class="col-sm-1">
+                  <input type="number" class="form-control" id="building-type-16" min="0" max="400" />
+                </div>
+              </div>
+              <div class="form-group">
+                <label for="building-type-19" class="col-sm-4 control-label">
+                  Kustwacht Haven
+                </label>
+                <div class="col-sm-1">
+                  <input type="number" class="form-control" id="building-type-19" min="0" max="400" />
+                </div>
+              </div>
+              <div class="form-group">
                 <label for="building-type-21" class="col-sm-4 control-label">
-                  Rettungshundestaffel
+                  SAR Helikopter platform
                 </label>
                 <div class="col-sm-1">
                   <input type="number" class="form-control" id="building-type-21" min="0" max="400" />
                 </div>
               </div>
               <div class="form-group">
-                <label for="building-type-15" class="col-sm-4 control-label">
-                  Wasserrettung
+                <label for="building-type-22" class="col-sm-4 control-label">
+                  Steunpunt Rijkswaterstaat
                 </label>
                 <div class="col-sm-1">
-                  <input type="number" class="form-control" id="building-type-15" min="0" max="400" />
+                  <input type="number" class="form-control" id="building-type-22" min="0" max="400" />
+                </div>
+              </div>
+              <div class="form-group">
+                <label for="building-type-23" class="col-sm-4 control-label">
+                  Militaire Hangar
+                </label>
+                <div class="col-sm-1">
+                  <input type="number" class="form-control" id="building-type-23" min="0" max="400" />
                 </div>
               </div>
               <div class="form-group">
