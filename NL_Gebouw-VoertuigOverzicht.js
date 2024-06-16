@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name        {NL}Gebouw-VoertuigenOverzicht
 // @namespace   bos-ernie.leitstellenspiel.de
-// @version     1.0.3.0.2
+// @version     1.0.3.0.3
 // @license     BSD-3-Clause
 // @author      BOS-Ernie
 // @description Bereitet diverse Informationen zu Wachen und Fahrzeugen auf, welche dem Spieler Hinweise über noch fehlende Einstellungen, Ausbauten, Fahrzeugen etc. gibt
@@ -38,7 +38,10 @@
       "building-type-6": 400, // MMT-Standplaats
       "building-type-9": 400, // Politiehelikopter Standplaats
       "building-type-11": 400, // Politie Hoofdbureau
+      "building-type-13": 400, // Ambulance VWS-post
       "building-type-16": 400, // Waterredding
+      "building-type-17": 400, // Brandweer Kazerne (klein)
+      "building-type-18": 400, // Politie Opkomstbureau (klein)
       "building-type-19": 400, // Kustwacht Haven
       "building-type-21": 400, // SAR Helikopter Standplaats
       "building-type-22": 400, // Rijkswaterstaat Standplaats
@@ -190,24 +193,6 @@
       caption: "Militaire hangar",
       buildingTypeId: 23,
       smallBuilding: false,
-    },
-    {
-      id: "24",
-      caption: "Brandweer, Kazerne (klein)",
-      buildingTypeId: 0,
-      smallBuilding: true,
-    },
-    {
-      id: "25",
-      caption: "Ambulance, VWS-post",
-      buildingTypeId: 3,
-      smallBuilding: true,
-    },
-    {
-      id: "26",
-      caption: "Politie, Opkomstbureau (klein)",
-      buildingTypeId: 5,
-      smallBuilding: true,
     },
   ];
 
