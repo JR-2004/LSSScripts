@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name        {NL}Gebouw-VoertuigenOverzicht
 // @namespace   bos-ernie.leitstellenspiel.de
-// @version     1.0.3.0.1
+// @version     1.0.3.0.2
 // @license     BSD-3-Clause
 // @author      BOS-Ernie
 // @description Bereitet diverse Informationen zu Wachen und Fahrzeugen auf, welche dem Spieler Hinweise über noch fehlende Einstellungen, Ausbauten, Fahrzeugen etc. gibt
@@ -108,9 +108,39 @@
       smallBuilding: false,
     },
     {
+      id: "10",
+      caption: "Uitgangsstelling (UGS)",
+      buildingTypeId: 10,
+      smallBuilding: false,
+    },
+    {
       id: "11",
       caption: "Politie, Hoofdbureau",
       buildingTypeId: 11,
+      smallBuilding: false,
+    },
+    {
+      id: "12",
+      caption: "Cellencomplex",
+      buildingTypeId: 12,
+      smallBuilding: false,
+    },
+    {
+      id: "13",
+      caption: "Ambulance VWS-post",
+      buildingTypeId: 3,
+      smallBuilding: true,
+    },
+    {
+      id: "14",
+      caption: "Groot gebouwencomplex",
+      buildingTypeId: 14,
+      smallBuilding: false,
+    },
+    {
+      id: "15",
+      caption: "Klein gebouwencomplex",
+      buildingTypeId: 15,
       smallBuilding: false,
     },
     {
@@ -118,6 +148,18 @@
       caption: "Waterreddingspost",
       buildingTypeId: 16,
       smallBuilding: false,
+    },
+    {
+      id: "17",
+      caption: "Brandweer, Kazerne (klein)",
+      buildingTypeId: 0,
+      smallBuilding: true,
+    },
+    {
+      id: "18",
+      caption: "Politie Opkomstbureau (klein)",
+      buildingTypeId: 5,
+      smallBuilding: true,
     },
     {
       id: "19",
@@ -215,8 +257,20 @@
       extensions: [0, 1, 2, 3, 4, 5, 6, 7, 8],
     },
     {
+      pseudoBuildingTypeId: "13",
+      extensions: [0],
+    },
+    {
       pseudoBuildingTypeId: "16",
       extensions: [0],
+    },
+    {
+      pseudoBuildingTypeId: "17",
+      extensions: [0, 1, 2, 13, 14, 15, 16, 17, 19],
+    },
+    {
+      pseudoBuildingTypeId: "18",
+      extensions: [0, 1, 12],
     },
     {
       pseudoBuildingTypeId: "19",
@@ -239,7 +293,7 @@
       extensions: [],
     },
   ];
-  const buildingsWithPersonal = [0, 3, 5, 6, 9, 11, 16, 19, 21, 22, 23];
+  const buildingsWithPersonal = [0, 3, 5, 6, 9, 11, 13, 16, 17, 18, 19, 21, 22, 23];
 
   const vehiclePersonnelAllocations = [
     {
