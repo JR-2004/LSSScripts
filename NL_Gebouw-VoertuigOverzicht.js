@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name        {NL}Gebouw-VoertuigenOverzicht
 // @namespace   bos-ernie.leitstellenspiel.de
-// @version     1.0.3.0.7
+// @version     1.0.3.0.8
 // @license     BSD-3-Clause
 // @author      BOS-Ernie
 // @description Bereitet diverse Informationen zu Wachen und Fahrzeugen auf, welche dem Spieler Hinweise über noch fehlende Einstellungen, Ausbauten, Fahrzeugen etc. gibt
@@ -583,7 +583,7 @@
     },
     {
       vehicleTypeId: 51,
-      vehicleTypeCaption: "HVH",
+      vehicleTypeCaption: HVH",
       personnelCount: 0,
       buildingCategory: "Brandweer",
     },
@@ -670,6 +670,222 @@
       vehicleTypeCaption: "DA Terreinwaardig - Reddingsbrigade",
       personnelCount: 4,
       buildingCategory: "Waterredding",
+    },
+    {
+      vehicleTypeId: 66,
+      vehicleTypeCaption: "Kusthulpverleningsvoertuig",
+      personnelCount: 6,
+      buildingCategory: "Waterredding",
+    },
+    {
+      vehicleTypeId: 67,
+      vehicleTypeCaption: "Bootaanhanger Reddingsbrigade",
+      personnelCount: 0,
+      buildingCategory: "Waterredding",
+    },
+    {
+      vehicleTypeId: 68,
+      vehicleTypeCaption: "SB",
+      personnelCount: 3,
+      buildingCategory: "Brandweer",
+    },
+    {
+      vehicleTypeId: 69,
+      vehicleTypeCaption: "SBH",
+      personnelCount: 0,
+      buildingCategory: "Brandweer",
+    },
+    {
+      vehicleTypeId: 70,
+      vehicleTypeCaption: "SBA",
+      personnelCount: 0,
+      buildingCategory: "Brandweer",
+    },
+    {
+      vehicleTypeId: 71,
+      vehicleTypeCaption: "MSA",
+      personnelCount: 0,
+      buildingCategory: "Brandweer",
+    },
+    {
+      vehicleTypeId: 72,
+      vehicleTypeCaption: "DPA",
+      personnelCount: 0,
+      buildingCategory: "Brandweer",
+    },
+    {
+      vehicleTypeId: 73,
+      vehicleTypeCaption: "Vrachtwagen - Bereden Brigade",
+      personnelCount: 4,
+      buildingCategory: "Politie, Hoofdbureau",
+    },
+    {
+      vehicleTypeId: 74,
+      vehicleTypeCaption: "Bereden Brigade Aanhanger",
+      personnelCount: 0,
+      buildingCategory: "Politie, Hoofdbureau",
+    },
+    {
+      vehicleTypeId: 75,
+      vehicleTypeCaption: "Dienstauto Terreinvaardig - Noodhulp",
+      personnelCount: 2,
+      buildingCategory: "Politie, Hoofdbureau",
+    },
+    {
+      vehicleTypeId: 76,
+      vehicleTypeCaption: "Quad",
+      personnelCount: 1,
+      buildingCategory: "Waterredding",
+    },
+    {
+      vehicleTypeId: 77,
+      vehicleTypeCaption: "KW-boot",
+      personnelCount: 6,
+      buildingCategory: "Waterredding",
+    },
+    {
+      vehicleTypeId: 78,
+      vehicleTypeCaption: "RB-K",
+      personnelCount: 4,
+      buildingCategory: "Waterredding",
+    },
+    {
+      vehicleTypeId: 79,
+      vehicleTypeCaption: "RB-G",
+      personnelCount: 6,
+      buildingCategory: "Waterredding",
+    },
+    {
+      vehicleTypeId: 80,
+      vehicleTypeCaption: "SAR-Heli",
+      personnelCount: 3,
+      buildingCategory: "Waterredding",
+    },
+    {
+      vehicleTypeId: 81,
+      vehicleTypeCaption: "DA-RWS | Dienstvoertuig weginspecteur Rijkswaterstaat",
+      personnelCount: 2,
+      buildingCategory: "Brandweer",
+    },
+    {
+      vehicleTypeId: 82,
+      vehicleTypeCaption: "DM-RWS | Dienstmotor weginspecteur Rijkswaterstaat",
+      personnelCount: 1,
+      buildingCategory: "Brandweer",
+    },
+    {
+      vehicleTypeId: 83,
+      vehicleTypeCaption: "DA-SIG | Signalisatievoertuig",
+      personnelCount: 2,
+      buildingCategory: "Brandweer",
+    },
+    {
+      vehicleTypeId: 84,
+      vehicleTypeCaption: "Waterwerper",
+      personnelCount: 4,
+      buildingCategory: "Politie, Hoofdbureau",
+    },
+    {
+      vehicleTypeId: 85,
+      vehicleTypeCaption: "FBO-Heli",
+      personnelCount: 3,
+      buildingCategory: "Brandweer",
+    },
+    {
+      vehicleTypeId: 86,
+      vehicleTypeCaption: "DB-Handcrew",
+      personnelCount: 9,
+      buildingCategory: "Brandweer",
+    },
+    {
+      vehicleTypeId: 87,
+      vehicleTypeCaption: "DA-LA-NB",
+      personnelCount: 1,
+      buildingCategory: "Brandweer",
+    },
+    {
+      vehicleTypeId: 88,
+      vehicleTypeCaption: "VW-NB",
+      personnelCount: 2,
+      buildingCategory: "Brandweer",
+    },
+    {
+      vehicleTypeId: 89,
+      vehicleTypeCaption: "NBH",
+      personnelCount: 0,
+      buildingCategory: "Brandweer",
+    },
+    {
+      vehicleTypeId: 90,
+      vehicleTypeCaption: "TS-STH",
+      personnelCount: 7,
+      buildingCategory: "Brandweer",
+    },
+    {
+      vehicleTypeId: 91,
+      vehicleTypeCaption: "HVH-STH",
+      personnelCount: 0,
+      buildingCategory: "Brandweer",
+    },
+    {
+      vehicleTypeId: 92,
+      vehicleTypeCaption: "DB-USAR",
+      personnelCount: 9,
+      buildingCategory: "Brandweer",
+    },
+    {
+      vehicleTypeId: 93,
+      vehicleTypeCaption: "TS-USAR",
+      personnelCount: 9,
+      buildingCategory: "Brandweer",
+    },
+    {
+      vehicleTypeId: 94,
+      vehicleTypeCaption: "VW-USAR",
+      personnelCount: 2,
+      buildingCategory: "Brandweer",
+    },
+    {
+      vehicleTypeId: 95,
+      vehicleTypeCaption: "DM-USAR",
+      personnelCount: 1,
+      buildingCategory: "Brandweer",
+    },
+    {
+      vehicleTypeId: 96,
+      vehicleTypeCaption: "Quat-USAR",
+      personnelCount: 2,
+      buildingCategory: "Brandweer",
+    },
+    {
+      vehicleTypeId: 97,
+      vehicleTypeCaption: "DB-Speurhonden",
+      personnelCount: 4,
+      buildingCategory: "Brandweer",
+    },
+    {
+      vehicleTypeId: 98,
+      vehicleTypeCaption: "SIV-P",
+      personnelCount: 2,
+      buildingCategory: "Politie, Opkomstbureau",
+    },
+    {
+      vehicleTypeId: 99,
+      vehicleTypeCaption: "DB-VOA",
+      personnelCount: 2,
+      buildingCategory: "Politie, Opkomstbureau",
+    },
+    {
+      vehicleTypeId: 100,
+      vehicleTypeCaption: "DB-GGB",
+      personnelCount: 6,
+      buildingCategory: "Ambulance,
+    },
+    {
+      vehicleTypeId: 101,
+      vehicleTypeCaption: "NHT",
+      personnelCount: 8,
+      buildingCategory: "Ambulance",
     },
     {
       vehicleTypeId: 102,
