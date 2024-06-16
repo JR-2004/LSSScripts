@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name        {NL}Gebouw-VoertuigenOverzicht
 // @namespace   bos-ernie.leitstellenspiel.de
-// @version     1.0.3.0.9
+// @version     1.0.3.0.10
 // @license     BSD-3-Clause
 // @author      BOS-Ernie
 // @description Bereitet diverse Informationen zu Wachen und Fahrzeugen auf, welche dem Spieler Hinweise über noch fehlende Einstellungen, Ausbauten, Fahrzeugen etc. gibt
@@ -879,7 +879,7 @@
       vehicleTypeId: 100,
       vehicleTypeCaption: "DB-GGB",
       personnelCount: 6,
-      buildingCategory: "Ambulance,
+      buildingCategory: "Ambulance",
     },
     {
       vehicleTypeId: 101,
