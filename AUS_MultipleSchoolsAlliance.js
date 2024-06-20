@@ -1,13 +1,11 @@
 // ==UserScript==
 // @name        {AUS}MultipleSchoolsAlliance
-// @version     1.1.1
+// @version     1.1.2
 // @description Gebruikt meer dan 4 klassen in teamscholen
 // @author      Allure149 & JR04
 // @match       https://*www.missionchief-australia.com/buildings/*
 // @grant       none
 // @namespace   https://greasyfork.org/users/981346
-// @downloadURL https://raw.githubusercontent.com/JR-2004/LSSScripts/main/AUS_MultipleSchoolsAlliance.js
-// @updateURL   https://raw.githubusercontent.com/JR-2004/LSSScripts/main/AUS_MultipleSchoolsAlliance.js
 // ==/UserScript==
 /* global $ */
 
