@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name        {AUS}MultipleSchoolsAlliance
-// @version     1.1
+// @version     1.1.1
 // @description Gebruikt meer dan 4 klassen in teamscholen
 // @author      Allure149 & JR04
 // @match       https://*www.missionchief-australia.com/buildings/*
@@ -13,7 +13,7 @@
 
 (async function(){
     var schoolToSearch = +$("h1:first").attr("building_type") || null;
-    var accessibleBuildings = [19, 4, 7, 24,8,20,];
+    var accessibleBuildings = [1, 25, 3, 8];
 
     if(schoolToSearch == null || !accessibleBuildings.includes(schoolToSearch)){
         return false;
