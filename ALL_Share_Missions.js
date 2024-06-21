@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name        {All}Share Missions
 // @namespace   bos-ernie.leitstellenspiel.de
-// @version     1.0
+// @version     1.1
 // @license     BSD-3-Clause
 // @author      BOS-Ernie & JR04
 // @description:de Fügt einen Button zum schnellen Teilen der eigenen Einsätze aus der Einsatzliste hinzu.
@@ -31,7 +31,7 @@
 // @icon        https://raw.githubusercontent.com/JR-2004/LSSScripts/main/icon.png
 // @run-at      document-idle
 // @grant       none
-// @resource    https://forum.leitstellenspiel.de/index.php?thread/23842-script-solidarprinzip-by-bos-ernie/
+// @icon        https://raw.githubusercontent.com/JR-2004/LSSScripts/main/logo.png
 // @downloadURL  https://raw.githubusercontent.com/JR-2004/LSSScripts/main/ALL_Share_Missions.js
 // @updateURL    https://raw.githubusercontent.com/JR-2004/LSSScripts/main/ALL_Share_Missions.js
 // ==/UserScript==
