@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         {ALL}Searchbar Schoolings page
 // @namespace    https://www.meldkamerspel.com/
-// @version      1.1.1
+// @version      1.1.2
 // @description  Adds a searchbar to all Missionchief versions for filtering buildings
 // @author       JR04
 // @match           https://www.leitstellenspiel.de/schoolings/*
@@ -36,9 +36,7 @@
 (function() {
     'use strict';
 
-    // Functie om een zoekbalk toe te voegen
     function addSearchBar() {
-        // Maak de zoekbalk en zoekknop aan
         const searchBar = document.createElement('input');
         searchBar.type = 'text';
         searchBar.placeholder = 'Zoek...';
@@ -47,10 +45,8 @@
         searchBar.style.width = '100%';
         searchBar.style.boxSizing = 'border-box';
 
-        // Voeg de zoekbalk toe aan het begin van de body
         document.body.insertBefore(searchBar, document.body.firstChild);
 
-        // Voeg event listener toe aan de zoekbalk
         searchBar.addEventListener('input', function() {
             const searchTerm = searchBar.value.toLowerCase();
             const items = document.querySelectorAll('.panel');
