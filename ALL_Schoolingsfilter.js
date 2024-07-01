@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         {ALL}Searchbar Schoolings page
 // @namespace    https://www.meldkamerspel.com/
-// @version      1.1.0
+// @version      1.1.1
 // @description  Adds a searchbar to all Missionchief versions for filtering buildings
 // @author       JR04
 // @match           https://www.leitstellenspiel.de/schoolings/*
